@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/martindavid/martindavid/master/assets/wave.gif" width="30px">
 
-My name is Martin Valentino and I'm a husband, father and a software engineer. I'm from Indonesia, living in Melbourne, Australia and currently working at @cultureamp. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Martin Valentino and I'm a husband, father and a software engineer. I'm from Indonesia, living in Melbourne, Australia and currently working at [CultureAmp](https://github.com/cultureamp). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 ## &#x270d; Blog & Writing
